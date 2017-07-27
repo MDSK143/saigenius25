@@ -1,0 +1,29 @@
+﻿ body{
+     font-family:Mitral,Arial;
+     background-color:pink;
+ 
+}
+
+header{
+    font-family:Mitral,Arial;
+     background-color:sky blue;
+       color:blue;
+     width:100%;
+   margin-left:auto;
+margin-right:auto;
+
+
+}
+
+nav ul{
+ list-style-type:none;
+
+}
+nav li{
+float:left;
+   margin-right:10px;
+}
+ section{
+ overloading:hidden;
+
+}
